@@ -1,0 +1,10 @@
+{
+	"newuser": {
+		"password": "changedpass",
+		"name": "david"
+	},
+  "subin": {
+      "password": "test1",
+      "name": "S.B KIM"
+  }
+}
